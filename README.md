@@ -2,7 +2,7 @@
 ## About me
 
 
-**Online Banking Technical Officer | Aspiring Backend & AWS Engineer | Computer Science graduate | ALX student** 
+**Full-Stack Developer | React, Next.js, PostgreSQL, AWS | Building Scalable, User-Friendly Web Apps | Online Banking Tech** 
 
 - 🔭 I’m currently working on: online banking systems while exploring backend development and AWS technologies
 - 🌱 I’m currently learning: backend development, AWS, and cloud computing to prepare for a remote tech job.
