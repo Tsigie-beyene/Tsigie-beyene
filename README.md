@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Tsigie Beyene
 **A passionate Full Stack Developer | Problem Solver | Tech Enthusiast**
 
-Versatile and solution-focused **Full-Stack Developer** skilled in building responsive frontends with **TypeScript, React, React Native, and Next.js**, and robust backends using **Node.js, Python, SpringBoot,  Django, REST APIs, PostgreSQL, and MongoDB (Mongoose)**. Passionate about clean code, performance, and turning ideas into real-world solutions.
+Versatile and impact-driven **Full-Stack Developer** with a strong command of modern technologies, delivering high-performance, user-centric applications from concept to deployment. Proficient in building responsive and scalable frontends using **TypeScript, React, React Native, and Next.js**, and developing secure, efficient backends with **Node.js, Python, Spring Boot, Django, and RESTful APIs**. Experienced in working with **PostgreSQL and MongoDB (Mongoose)** for robust data solutions. Passionate about clean architecture, optimized performance, and transforming innovative ideas into real-world digital products that solve real business problems.
 
 Email Me 👉 ✉️ **tsigiebey29@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
