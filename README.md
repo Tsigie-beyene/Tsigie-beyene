@@ -1,16 +1,10 @@
 # 💫 Hi 👋, I'm Tsigie Beyene
 **A passionate Full Stack Developer | Problem Solver | Tech Enthusiast**
 
+Versatile and solution-focused **Full-Stack Developer** skilled in building responsive frontends with **TypeScript, React, React Native, and Next.js**, and robust backends using **Node.js, Python, SpringBoot,  Django, REST APIs, PostgreSQL, and MongoDB (Mongoose)**. Passionate about clean code, performance, and turning ideas into real-world solutions.
+
 Email Me 👉 ✉️ **tsigiebey29@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@tsigie_bey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tsigie-beyene) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BeyeneTsig51096) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tsigiebey29@gmail.com) 
 
