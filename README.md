@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Tsigie Beyene
+# 💫 Hi 👋, I'm Tsigie Beyene ![Profile views](https://komarev.com/ghpvc/?username=Tsigie-beyene)
 **A passionate Full Stack Developer | Problem Solver | Tech Enthusiast**
 
 Versatile and impact-driven **Full-Stack Developer** with a strong command of modern technologies, delivering high-performance, user-centric applications from concept to deployment. Proficient in building responsive and scalable frontends using **TypeScript, React, React Native, and Next.js**, and developing secure, efficient backends with **Node.js, Python, Spring Boot, Django, and RESTful APIs**. Experienced in working with **PostgreSQL and MongoDB (Mongoose)** for robust data solutions. Passionate about clean architecture, optimized performance, and transforming innovative ideas into real-world digital products that solve real business problems.
