@@ -43,7 +43,6 @@ Backend Development:
 ![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/oauth2-%23000000.svg?style=for-the-badge&logo=oauth&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 Databases / ORM:
 
@@ -93,9 +92,5 @@ DevOps:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tsigie-beyene&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tsigiebey27@gmail.com) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
