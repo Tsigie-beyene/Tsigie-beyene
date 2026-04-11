@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Tsigie Beyene 
-**Software Engineer | Enterprise Integration Specialist | Microservices, Java, Spring Boot, Docker, Django, Apache Kafka, React, Next.js**
+**Software Engineer | Enterprise Integration Specialist | Java | Spring Boot | Microservices | Docker | Kafka | React | Next.js**
 
 Graduated with a Bachelor of Computer Science from the University of Gondar. I currently work as an Enterprise Integration Specialist at Safaricom Ethiopia Telecommunications PLC, focusing on enterprise integration.
  
