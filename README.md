@@ -1,12 +1,7 @@
 # 💫 Hi 👋, I'm Tsigie Beyene 
 **Software Engineer | Enterprise Integration Specialist | Java | Spring Boot | Microservices | Docker | Kafka | React | Next.js**
 
-Graduated with a Bachelor of Computer Science from the University of Gondar. I currently work as an Enterprise Integration Specialist at Safaricom Ethiopia Telecommunications PLC, focusing on enterprise integration.
- 
-Previously, I worked as a Full-Stack Developer at KisPay Financial Solutions, a payment gateway platform. In this role, I focused on designing secure and scalable payment systems that connect merchants, banks, and fintech providers. I bring strong expertise in microservices architecture, with hands-on experience in Spring Boot, Spring Cloud, Docker, Apache Kafka, and databases such as MySQL and PostgreSQL. I specialize in developing merchant applications using React, TypeScript, and Spring Boot, as well as building messaging systems with Apache Kafka, creating back-office portals, and driving integrations with banks and payment platforms.
- 
-My prior experience also includes working as a Software Engineer at Enat Bank, where I contributed to the integration and optimization of digital banking platforms, with a strong emphasis on security and scalability to enhance digital transaction experiences. My goal is to continue building robust financial systems that empower businesses and users.
-
+Skilled Software Engineer and Enterprise Integration Specialist with strong expertise in building scalable, secure, and distributed systems. Experienced in microservices architecture and backend development using Java, Spring Boot, Spring Cloud, Docker, and Apache Kafka. Proficient in designing and developing modern web applications using React and TypeScript, with solid knowledge of relational databases including MySQL and PostgreSQL. Passionate about system integration, payment platforms, and building reliable financial systems that support high-volume digital transactions.
 ![Profile views](https://komarev.com/ghpvc/?username=Tsigie-beyene)
 
 Email Me 👉 ✉️ **tsigiebey29@gmail.com** For Collaboration/Project or Anything Else. 😊😊
