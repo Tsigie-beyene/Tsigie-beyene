@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Tsigie Beyene 
-**Software Engineer | Enterprise Integration Specialist | Java | Spring Boot | Microservices | Docker | Kafka | React | Next.js**
+**Software Engineer | Enterprise Integration Specialist | Payment Platforms**
 
 Skilled Software Engineer and Enterprise Integration Specialist with strong expertise in building scalable, secure, and distributed systems. Experienced in **microservices architecture** and **backend development** using **Java**, **Spring Boot**, **Spring Cloud**, **Docker**, **Kubernetes**, **Jenkins**, and **Apache Kafka**. Proficient in **designing** and developing **modern web applications** using **React** and **TypeScript**, with solid knowledge of relational databases including **MySQL and PostgreSQL**. Passionate about **system integration**, **payment platforms**, and building reliable financial systems that support high-volume digital transactions.
 
